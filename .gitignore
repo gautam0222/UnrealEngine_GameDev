@@ -1,0 +1,13 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+
+# OS
+Thumbs.db
+.DS_Store
